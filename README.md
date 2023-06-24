@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi ! 💻: I'm Lucas Christian ☕:
+
+I'm from São Paulo, Brazil :brazil:  
+Student at Technology School of São Paulo(Fatec) :sparkles:  
+Enthusiastic about java programming :bar_chart: and Solving Algorithmic Problems :bulb:  
+<!-- **2023 Goals** :outbox_tray: : Increase my knowledge in Back-end developing and problem solving. -->
+
+**Connect with me:**
+<p align='center'>
+  <a href="https://www.linkedin.com/in/lucas-christian1/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
