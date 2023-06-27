@@ -22,3 +22,6 @@ Student at Technology School of São Paulo(Fatec) :sparkles:
 Enthusiastic about java programming :bar_chart: and Solving Algorithmic Problems :bulb:  
 **2023 Goals** :outbox_tray: : Increase my knowledge in Back-end developing and problem solving. 
 
+[![Linkedin: Lucas](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/frederico-homobono-0002b37/)](https://www.linkedin.com/in/lucas-christian-5b665b255/)
+
+
